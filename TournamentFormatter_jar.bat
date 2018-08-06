@@ -1,1 +1,1 @@
-java -Xmx4g -jar out/artifacts/TemplateGenerator_jar/TournamentFormatter.jar %*
+java -Xmx4g -jar out/artifacts/TournamentFormatter_jar/TournamentFormatter.jar %*
