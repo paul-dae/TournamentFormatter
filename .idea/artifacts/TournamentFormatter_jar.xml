@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TournamentFormatter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TournamentFormatter_jar</output-path>
+    <root id="archive" name="TemplateGenerator.jar">
+      <element id="module-output" name="TemplateGenerator" />
+    </root>
+  </artifact>
+</component>
